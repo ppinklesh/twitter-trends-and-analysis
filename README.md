@@ -2,7 +2,7 @@
 
 # Create a auth_data.py file
 
-[goto] (https://developer.twitter.com) https://developer.twitter.com
+[goto](https://developer.twitter.com) https://developer.twitter.com
 Create an account. you will get
 consumer_key,
 consumer_secret,
