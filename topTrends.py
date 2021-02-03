@@ -1,6 +1,3 @@
-
-
-
 #tweets trends and count
 import sys
 import tweepy
