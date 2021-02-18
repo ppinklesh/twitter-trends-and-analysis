@@ -22,3 +22,7 @@ put that data in auth_data.py files.
 #### for instruction you can read readme-first.txt file
 
 # Where On Earth ID [WoE](https://www.findmecity.com/)
+
+![trend tweets](https://raw.githubusercontent.com/ppinklesh/twitter-trends-and-analysis/main/images/trending-tweets.gif)
+
+![100tweets](https://raw.githubusercontent.com/ppinklesh/twitter-trends-and-analysis/main/images/100tweets.gif)
