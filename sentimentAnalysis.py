@@ -30,7 +30,7 @@ def analyze(Topic):
         positive_tweets.append(tweet)
     return positive_tweets, negative_tweets
 
-hashtag = input('Enter hashTag with # as suffix #')
+hashtag = input('Enter hashTag with # as suffix')
 positive, negative = analyze(hashtag)
 # print(positive , '\n\n', negative)
 length_of_positive = len(positive)

@@ -1,4 +1,4 @@
-# twitter-trends-and-analysis
+# tweeter-trends-and-analysis
 
 # Create a auth_data.py file
 
